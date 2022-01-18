@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/ReaditDemo/static/css/main.fa3c2516.chunk.css",
+    "main.js": "/ReaditDemo/static/js/main.8e989bcf.chunk.js",
+    "main.js.map": "/ReaditDemo/static/js/main.8e989bcf.chunk.js.map",
+    "runtime-main.js": "/ReaditDemo/static/js/runtime-main.8dde156a.js",
+    "runtime-main.js.map": "/ReaditDemo/static/js/runtime-main.8dde156a.js.map",
+    "static/css/2.1fe20c78.chunk.css": "/ReaditDemo/static/css/2.1fe20c78.chunk.css",
+    "static/js/2.9d9c56d9.chunk.js": "/ReaditDemo/static/js/2.9d9c56d9.chunk.js",
+    "static/js/2.9d9c56d9.chunk.js.map": "/ReaditDemo/static/js/2.9d9c56d9.chunk.js.map",
+    "index.html": "/ReaditDemo/index.html",
+    "static/css/2.1fe20c78.chunk.css.map": "/ReaditDemo/static/css/2.1fe20c78.chunk.css.map",
+    "static/css/main.fa3c2516.chunk.css.map": "/ReaditDemo/static/css/main.fa3c2516.chunk.css.map",
+    "static/js/2.9d9c56d9.chunk.js.LICENSE.txt": "/ReaditDemo/static/js/2.9d9c56d9.chunk.js.LICENSE.txt",
+    "static/media/ILoveBooks.b79aee65.svg": "/ReaditDemo/static/media/ILoveBooks.b79aee65.svg",
+    "static/media/lectorWhatIs.68a09643.webp": "/ReaditDemo/static/media/lectorWhatIs.68a09643.webp"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.8dde156a.js",
+    "static/css/2.1fe20c78.chunk.css",
+    "static/js/2.9d9c56d9.chunk.js",
+    "static/css/main.fa3c2516.chunk.css",
+    "static/js/main.8e989bcf.chunk.js"
+  ]
+}
